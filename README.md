@@ -44,7 +44,8 @@ GestureCosmos 是 Gemini 基于 Three.js 生成的实时交互 3D 粒子系统�
 
 ## 📸 效果预览
 
-（此处建议插入项目运行截图/GIF，推荐展示这些组合）
+<img width="2560" height="1319" alt="image" src="https://github.com/user-attachments/assets/b5696efa-646d-4406-9d07-44324f0e6b6c" />
+
 - 佛像形态 + 彩虹渐变色：庄严佛像轮廓由彩色粒子构成，随手势舒展扩散，神圣又梦幻！
 - 烟花形态 + 自定义霓虹色：粒子呈烟花绽放状，手势张开瞬间如烟火升空，色彩绚丽夺目！
 - DNA 双螺旋 + 蓝紫渐变：双螺旋结构随双手张合拉伸，彩色粒子流动如星河，科技感拉满！
@@ -101,7 +102,8 @@ We can't help but admire Gemini's efficiency and creativity — without complex 
 
 ## 📸 Preview
 
-(Insert project screenshots/GIF here, recommended combinations:)
+<img width="2560" height="1319" alt="image" src="https://github.com/user-attachments/assets/49b1b08c-2ab0-4084-accc-9724d41046da" />
+
 - Buddha Shape + Rainbow Gradient: Sacred Buddha outline composed of colorful particles, expanding with gestures — divine and dreamy!
 - Fireworks Shape + Custom Neon Color: Particles burst like fireworks, soaring with hand gestures — bright and dazzling!
 - DNA Helix + Blue-Purple Gradient: Double helix structure stretches with hand movements, colorful particles flowing like a galaxy — full of tech sense!
